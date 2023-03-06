@@ -38,6 +38,8 @@ As an iOS Software Engineer, you'll need to have knowladge in Sotware Engineerin
 11. Version control.
 12. Design Patterns.
 13. Architectural Design Patterns.
+14. Error Handling
+15. Coupling and Cohesion 
 
 **iOS Development**:
 1. Xcode IDE.
